@@ -33,7 +33,7 @@
 						<div class="app-config">
 							<div class="app-field-menu">
 								<div class="logo mui-pull-left"><img src="template/wap/statics/images/logo.png" height="30"></div>
-								<h1 class="mui-title">海盗云商</h1>
+								<h1 class="mui-title">小红鸟母婴商城</h1>
 							</div>
 						</div>
 						<div class="app-fields app-field-region" style="margin-top: 300px;"></div>
